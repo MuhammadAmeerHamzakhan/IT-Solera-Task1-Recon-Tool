@@ -1,0 +1,114 @@
+
+--- 172.217.19.238:80 ---
+[+] Banner for 172.217.19.238:80
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-Opi6qkW0IRSaY24jK-taOA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Wed, 11 Jun 2025 14:02:14 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 11 Jun 2025 14:02:14 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2iXcXDbJtTw4U18cZuqK6f87A_dKNRGfLsto10vNnXCAFb4oRul3g; expires=Mon, 08-Dec-2025 14:02:14 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=524=eufYQsTz4LHGwK8LTIZYdOP1V2X7SU0vH0r_kbxjxmTXrUVf1PxqW33DxmgWoW7q4m9ecs4o_DvDTBePPMhco5lsg2M7u_QttEDTlZJQfjdWyO7yJK1CVeMjEBc0ZpyZBrzUQRMWApCpCdFcmculVQM9d1RkUh_AiMW09qn8m7FMS44EKtnPNBwfE7ffIXvWh8OWaOwXOm44Ng; expires=Thu, 11-Dec-2025 14:02:14 GMT; path=/; domain=.google.com; HttpOnly
+
+
+
+--- 172.217.19.238:443 ---
+[+] Banner for 172.217.19.238:443
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-WgPEg4zQnvS92CXkSFXFEg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Wed, 11 Jun 2025 14:02:14 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 11 Jun 2025 14:02:14 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2hyEtQt-z6e9gzxHMXtfvWE-vmUP6RguqK7KVJ5n7AZM1DgfA8bYDs; expires=Mon, 08-Dec-2025 14:02:14 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=524=GskYBA6NA8dXLNZw8R6XfTj4AhDyruA8BLw0J11tjdjpWvCZdjYtS-VOk6phabYDHIbmB-AmRPiYH-bihhcWfcwAunxWVsEdiie_oaxcrvTE_X1O43HWWC0uTX8SL_llqrjZE3CA2gMKymvEIZyyEtyPI__c3k-ArriUHm_09V-a7cxUrnTJn3mqAwnGtW7GWS5euXkR3w8CTQ; expires=Thu, 11-Dec-2025 14:02:14 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+
+--- 0.0.0.0:80 ---
+[-] Error on 0.0.0.0:80: [WinError 10049] The requested address is not valid in its context
+
+--- 0.0.0.0:443 ---
+[-] Error on 0.0.0.0:443: [WinError 10049] The requested address is not valid in its context
+
+--- 172.217.17.78:80 ---
+[+] Banner for 172.217.17.78:80
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-4-qUydFV1AQTpsQ3pGsISQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 12 Jun 2025 15:04:47 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 12 Jun 2025 15:04:47 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2h48ws11O5eeW_jiEucZqDkJ1mm1uT6T_B3TSiStagt9Kf08dOfN9w; expires=Tue, 09-Dec-2025 15:04:47 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=524=pOuM8bApxCi3W56w6fR0j4VIF4w2NqBHm9BFRE7f22GsFkYIhyrZ90RBt3MT8UYVFQfwqb9vh4AzC4A78ifIiZYJbYERjHp6FbHvke5fv0Z8e6ryvfuprSWYJZSqqtfw-9NKJhQzRvnnf3GwtCdLR12Iu9PvQP3SHpgOT6CAAMk6bwJIzbBmzJU5wzs82DZwebAvTF6T6dor2hE; expires=Fri, 12-Dec-2025 15:04:47 GMT; path=/; domain=.google.com; HttpOnly
+
+
+
+--- 172.217.17.78:443 ---
+[+] Banner for 172.217.17.78:443
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-DIdf6iqXPDOPZLBqdu4Uzw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 12 Jun 2025 15:04:48 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 12 Jun 2025 15:04:48 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2jXBWDBZT38vmrIGeuwFmwUMsJPUGWMrOTWkxjQliYsBLTFX4xL-jo; expires=Tue, 09-Dec-2025 15:04:48 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=524=avPVmE3TNZOQZoBvFZnWEpj6kqH_ckKrDcCOHUJCpm34DWYHj9xEdl2EmjSKJX-MW0fgB6prSMskCA9FCdOmJRN631zUF3QiUkp1b1fa9WxhfGaaSp07kIp84h3B26j99MWO-rcXXsr1aHpYcepsF8GycDOWM25k8EEMGuEq_z1IQ_nI2RuxNarq5X3Go1VTyPlrRKy3l1qPeA; expires=Fri, 12-Dec-2025 15:04:48 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+
+--- 142.250.181.78:80 ---
+[+] Banner for 142.250.181.78:80
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-5zfZ71jibkWsiCtEyfWIrw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 12 Jun 2025 15:10:34 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 12 Jun 2025 15:10:34 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2gAJIC3G8Ew-p4r64PdK0CEwD9k-pio6g2Ovi3tT9En_xAyPXDKfg; expires=Tue, 09-Dec-2025 15:10:34 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=524=ZRWcrU578KkJsXJ2n-tYmkVX78tJy192cUveQ1izmYb9ImoS8BSW65K9Pdo6qS-TXGARx0KUTE-Pn9AZ73fmVZfhtWQrMKwzvFQ0tN1mZo1jMYsYG1zPx-FiJZ5NZqu5-7zrUcewkpoyMOzNJJYf3N4emje4sFOea9x9A3Mj6Azi46J2AcPosM2KBXFPFipadsysednWMmXQdDM; expires=Fri, 12-Dec-2025 15:10:34 GMT; path=/; domain=.google.com; HttpOnly
+
+
+
+--- 142.250.181.78:443 ---
+[+] Banner for 142.250.181.78:443
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-msAgHFFoOEkXXA4AOOcBCw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 12 Jun 2025 15:10:35 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 12 Jun 2025 15:10:35 GMT
+Cache-Control: private
+Set-Cookie: AEC=AVh_V2hAglhHUTDqYomyLcCcQoKePDWY3YJ8z6F7kcd49yCsuvrlIu6jgA; expires=Tue, 09-Dec-2025 15:10:35 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=524=d9UarnmXPvMSDj_qnK6QP-ZyrnVHy3FJmvB-p8lF9-BfzVNT68o5GUznsv-FDPSumpWYXeFiaGziUFslyfVFNS8czf8OJ39QYc3nfFivEOjKSsEuYBy-MJ5ng37Qz2NT6EKp5wgA5nU6e0_ZCBH6LEaAYuQKAWwVdfA9RHKJdcsjDoo2C1F3tiK9RouKOh4w7JIr0fXa4KyX6wg; expires=Fri, 12-Dec-2025 15:10:35 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
